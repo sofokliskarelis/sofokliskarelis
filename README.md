@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sofoklis Karelis</h1>
-<h3 align="center">A Student trying make a safer CyberWorld</h3>
+<h3 align="center">A Student trying to make a safer CyberWorld</h3>
 <img align="right" alt="Hacking" width="400" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sofokliskarelis&label=Profile%20views&color=0e75b6&style=flat" alt="sofokliskarelis" /> </p>
 
