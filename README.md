@@ -3,7 +3,7 @@
 <img align="right" alt="Hacking" width="400" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sofokliskarelis&label=Profile%20views&color=0e75b6&style=flat" alt="sofokliskarelis" /> </p>
 
-- 🌱 I’m currently learning **Networking**
+- 🌱 I’m currently learning **WEB VULNERABILITIES**
 
 - 👨‍💻 All of my projects are available at [https://sofoklis-karelis.netlify.app/](https://sofoklis-karelis.netlify.app/)
 
